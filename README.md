@@ -1,4 +1,7 @@
-# minesweeper-highlight
+# Minesweeper Highlight
+
+## Import
+Import [mshl.js](https://magkms.github.io/minesweeper-highlight/mshl.js) to your project
 
 ## Start
 ```js
